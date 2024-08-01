@@ -1,0 +1,31 @@
+{
+  "about": "That’s me",
+  "career": "2020",
+  "college": "",
+  "country": "USA",
+  "dob": "",
+  "email": "mfarooq012@gmail.com",
+  "experience": "Rookie",
+  "fname": "Scott",
+  "hero": "https://firebasestorage.googleapis.com/v0/b/dojo-8a998.appspot.com/o/heroes%2FMhx62g2UG1WXd3E42KOuMjQGSR32.jpg?alt=media&token=78b9af93-2f18-470f-9b7a-d8f5a5588c62",
+  "highschool": "",
+  "hometown": "",
+  "id": "ieAawgj27C8ryXkNXd5l",
+  "lname": "Hall",
+  "name": "Scott Hall",
+  "phone": "+254745978124",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/dojo-8a998.appspot.com/o/avatars%2FMhx62g2UG1WXd3E42KOuMjQGSR32.jpg?alt=media&token=ca18c6df-5e77-48aa-a3f5-cddf8da8c808",
+  "pid": " ieAawgj27C8ryXkNXd5l",
+  "pob": "Huston",
+  "position": "",
+  "stats": [
+    {
+      "group": "Free-Throws",
+      "key": "Free-Throws:Points Per Game (PPG)",
+      "pid": "ieAawgj27C8ryXkNXd5l",
+      "stat": "Points Per Game (PPG)",
+      "value": "13"
+    }
+  ],
+  "validation": 0
+}
